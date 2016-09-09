@@ -1,0 +1,1 @@
+Text message generation using templates project using Java to generate text messages from a template by substituting in given tokens. Messages are logically truncated at a maximum length of 160 characters and can optionally be prepended by the message count.
