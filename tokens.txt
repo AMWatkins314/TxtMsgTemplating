@@ -1,0 +1,7 @@
+{“FIRST_NAME”: “Andrew”}
+{“LAST_NAME”: “Smith”}
+{“ORDER_ITEM_1”: “Singulair”}
+{“ORDER_ITEM_2”: “Nexium”}
+{“ALL_MEDICATIONS”: "Benzoyl Peroxide", “Nexium”, "Singulair", "Xanax"}
+{"PREVENTATIVE_CARE": "Annual Exam"}
+{"PHONE_NUMBER": "555-123-4567"}

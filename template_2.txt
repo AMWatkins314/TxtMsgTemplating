@@ -1,0 +1,3 @@
+Hello FIRST_NAME, this is your current medication order:
+ALL_MEDICATIONS
+If you would like to confirm this order, text 'order', otherwise text 'help' for help.

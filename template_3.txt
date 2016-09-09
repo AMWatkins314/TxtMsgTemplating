@@ -1,0 +1,5 @@
+Hello FIRST_NAME LAST_NAME, this is your current medication order:
+ALL_MEDICATIONS
+You will need to get renewals for the following prescriptions soon from your primary health care provider: ORDER_ITEM_1, ORDER_ITEM_2.
+If you would like to confirm this order, text 'order', otherwise text 'help' for help.
+Also, you are due for your PREVENTATIVE_CARE, which should be scheduled soon. Please call PHONE_NUMBER to schedule your visit as soon as possible.
